@@ -6,4 +6,6 @@ MEME GENERATOR ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 -> Have fun playing with it ;)
 
-->extra
+->extra 
+
+-> ac chk kar
