@@ -5,7 +5,3 @@ MEME GENERATOR ::::::::::::::::::::::::::::::::::::::::::::::::::
 -> You can make templates and have text according to ur wishes 
 
 -> Have fun playing with it ;)
-
-->extra 
-
--> ac chk kar
